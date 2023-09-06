@@ -6,7 +6,7 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/muhammedaslam312/seize_backend.git
    cd <project_directory>
 
 2. Create a Virtual Environment:
